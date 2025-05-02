@@ -1,7 +1,6 @@
 package Practice.Arrays;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class ReverseAnArray {
     public static void main(String[] args){

@@ -13,9 +13,9 @@ public class LargestElementInAnArray {
         int max=0;
 
         // Using Iteration method
-        for(int i=0;i<n;i++){
-            if(arr[i]>max){
-                max=arr[i];
+        for (int j : arr) {
+            if (j > max) {
+                max = j;
             }
         }
         System.out.println("Largest element in an array is : "+max);

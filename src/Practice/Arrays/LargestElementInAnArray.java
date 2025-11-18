@@ -7,7 +7,7 @@ import java.util.List;
 
 public class LargestElementInAnArray {
     public static void main(String[] args){
-        int [] arr = {1,2,8,4,0,77,55,99,1807};
+        int [] arr = {1,2,8,4,0,77,55,99,1807,9523};
 
         int n= arr.length;
         int max=0;

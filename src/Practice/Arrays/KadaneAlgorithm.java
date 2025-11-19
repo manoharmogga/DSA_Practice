@@ -4,6 +4,7 @@ public class KadaneAlgorithm {
     public  static void main(String[] args){
         //Kadane's Algorithm - Dynamic program approach
         // O(n) - Time complexity
+        // maximum subarray / continuous growing sub array problems
         int[] arr ={-1,2,36,4,-9,7,9,-44,65};
 
         int max= arr[0];
